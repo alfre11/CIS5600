@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/soundFiles">
+        <file>Sound/runSound.mp3</file>
+        <file>Sound/startMusic.mp3</file>
+        <file>Sound/Minecraft-Old-Water-Splash-Sound-Effect.mp3</file>
+        <file>Sound/dirtplacesound.mp3</file>
+    </qresource>
+</RCC>
